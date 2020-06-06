@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <div class="center jumbotron bg-warning">
+    <div class="center jumbotron bg-danger">
         <div class="text-center text-white">
             <h1>YouTube Curation × SNS</h1>
         </div>
